@@ -34,7 +34,7 @@ const ViewReview = () => {
                                                 <p class="card-text">{value.rating}⭐</p>
                                                 <p class="card-text">Duration : {value.duration}</p>
                                             </div>
-                                            </div>
+                                        </div>
                                     </div>
                             }
                         )}
