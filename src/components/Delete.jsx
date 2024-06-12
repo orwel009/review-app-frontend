@@ -50,7 +50,7 @@ const Delete = () => {
                     <div className="col col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl12">
                         <div className="row g-3">
                             <div className="col col-12 col-sm-12 col-md-12 col-lg-12 colxl-12 col-xxl-12">
-                                <input type="text" className="form-control" placeholder='Enter Product Name...'
+                                <input type="text" className="form-control" placeholder='Enter Movie Name...'
                                     name='name' value={data.name} onChange={inputHandler} />
                             </div>
                             <div className="col col-12 col-sm-12 col-md-12 col-lg-12 colxl-12 col-xxl-12">
